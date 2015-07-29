@@ -73,7 +73,7 @@ cursor:pointer -moz-border-radius:2px;
 }
 #popupAbout .scrollUpBtn {
 	top:16px;
-	background:url(images/mcs_btnUp.png) center center no-repeat;
+	background:url(../images/mcs_up.png) center center no-repeat;
 	-webkit-transition:all .25s linear;
 	-moz-transition:all .25s linear;
 	-o-transition:all .25s linear;
@@ -82,7 +82,7 @@ cursor:pointer -moz-border-radius:2px;
 }
 #popupAbout .scrollDownBtn {
 	bottom:12px;
-	background:url(images/mcs_btnDown.png) center center no-repeat;
+	background:url(../images/mcs_down.png) center center no-repeat;
 	-webkit-transition:all .25s linear;
 	-moz-transition:all .25s linear;
 	-o-transition:all .25s linear;
@@ -172,7 +172,7 @@ cursor:pointer -moz-border-radius:2px;
 }
 #popupProjects .scrollUpBtn {
 	top:16px;
-	background:url(images/mcs_btnUp.png) center center no-repeat;
+	background:url(../images/mcs_up.png) center center no-repeat;
 	-webkit-transition:all .25s linear;
 	-moz-transition:all .25s linear;
 	-o-transition:all .25s linear;
@@ -181,7 +181,7 @@ cursor:pointer -moz-border-radius:2px;
 }
 #popupProjects .scrollDownBtn {
 	bottom:12px;
-	background:url(images/mcs_btnDown.png) center center no-repeat;
+	background:url(../images/mcs_down.png) center center no-repeat;
 	-webkit-transition:all .25s linear;
 	-moz-transition:all .25s linear;
 	-o-transition:all .25s linear;
@@ -272,7 +272,7 @@ cursor:pointer -moz-border-radius:2px;
 }
 #popupContact .scrollUpBtn {
 	top:16px;
-	background:url(images/mcs_btnUp.png) center center no-repeat;
+	background:url(../images/mcs_up.png) center center no-repeat;
 	-webkit-transition:all .25s linear;
 	-moz-transition:all .25s linear;
 	-o-transition:all .25s linear;
@@ -281,7 +281,7 @@ cursor:pointer -moz-border-radius:2px;
 }
 #popupContact .scrollDownBtn {
 	bottom:12px;
-	background:url(images/mcs_btnDown.png) center center no-repeat;
+	background:url(../images/mcs_down.png) center center no-repeat;
 	-webkit-transition:all .25s linear;
 	-moz-transition:all .25s linear;
 	-o-transition:all .25s linear;
@@ -372,7 +372,7 @@ cursor:pointer -moz-border-radius:2px;
 }
 #popupBlog .scrollUpBtn {
 	top:16px;
-	background:url(images/mcs_btnUp.png) center center no-repeat;
+	background:url(../images/mcs_up.png) center center no-repeat;
 	-webkit-transition:all .25s linear;
 	-moz-transition:all .25s linear;
 	-o-transition:all .25s linear;
@@ -381,7 +381,7 @@ cursor:pointer -moz-border-radius:2px;
 }
 #popupBlog .scrollDownBtn {
 	bottom:12px;
-	background:url(images/mcs_btnDown.png) center center no-repeat;
+	background:url(../images/mcs_down.png) center center no-repeat;
 	-webkit-transition:all .25s linear;
 	-moz-transition:all .25s linear;
 	-o-transition:all .25s linear;

@@ -74,7 +74,7 @@ hgroup a:hover {
     right: 10px;
     top: 10px;
     padding: 5px;
-    background: url(images/fs_img_g_bg.png);
+    background: url(../images/fs_img_g_bg.png);
 }
 
 #toolbar img {
@@ -87,7 +87,7 @@ hgroup a:hover {
     right: 10px;
     bottom: 60%;
     padding: 5px;
-    background: url(images/fs_img_g_bg.png);
+    background: url(../images/fs_img_g_bg.png);
     color: #FFF;
     font-family: "MicroSoft YaHei";
     font-size: 18px;
@@ -132,7 +132,7 @@ hgroup a:hover {
     bottom: 0%;
     width: 100%;
     height: 205px;
-    background: url(images/empty.gif);
+    background: url(../images/empty.gif);
     /* stupid ie needs a background value to understand hover area */
 }
 
@@ -146,7 +146,7 @@ hgroup a:hover {
 #outer_container .thumbScroller {
     position: relative;
     overflow: hidden;
-    background: url(images/fs_img_g_bg.png);
+    background: url(../images/fs_img_g_bg.png);
     background: rgba(0, 0, 0, 0.850);
 }
 
@@ -214,11 +214,11 @@ hgroup a:hover {
 
 .nextImageBtn {
     right: 0;
-    background: #000 url(images/next.png) center center no-repeat;
+    background: #000 url(../images/next.png) center center no-repeat;
 }
 
 .prevImageBtn {
-    background: #000 url(images/prev.png) center center no-repeat;
+    background: #000 url(../images/prev.png) center center no-repeat;
 }
 
 ul.menu {
@@ -254,7 +254,7 @@ ul.menu li > a {
     width: 170px;
     height: 85px;
     z-index: 12;
-    background: transparent url(images/overlay.png) no-repeat bottom right;
+    background: transparent url(../images/overlay.png) no-repeat bottom right;
     background-color: rgba(0, 0, 0, 0.75);
     -moz-box-shadow: 0px 0px 2px #000 inset;
     -webkit-box-shadow: 0px 0px 2px #000 inset;
