@@ -228,7 +228,7 @@ ul.menu {
     list-style: none;
     font-family: "Microsoft YaHei";
     font-size: 14px;
-    width: 340px;
+    width: auto;
     position: absolute;
     top: 25%;
     right: 0%
